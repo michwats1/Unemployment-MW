@@ -16,7 +16,6 @@ load_dotenv() #> invoking this function loads contents of the ".env" file into t
 API_KEY = os.getenv("ALPHAVANTAGE_API_KEY")
 
 
-
 def format_pct(my_number):
     """
     Formats a percentage number like 3.6555554 as percent, rounded to two decimal places.
