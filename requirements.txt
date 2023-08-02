@@ -8,5 +8,10 @@ plotly
 
 python-dotenv
 
-# for testing:
+
+flask # <--- ADD FOR WEB APP
+#gunicorn
+
+
+# using this to find and run our tests:
 pytest
