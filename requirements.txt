@@ -10,7 +10,7 @@ python-dotenv
 
 
 flask # <--- ADD FOR WEB APP
-#gunicorn
+gunicorn # <--- ADD FOR Hosting on render server
 
 
 # using this to find and run our tests:
