@@ -10,11 +10,11 @@ Obtain an AlphaVantage API Key. A normal key should be fine, but alternatively y
 Create a virtual enviornment 
 
 ```sh 
-conda create -n unemployment-env python=3.10
+conda create -n unemployment-new python=3.10
 ```
 
 ```sh 
-conda create -n unemployment-env 
+conda activate unemployment-new
 ```
 
 Install some third party packagaes:
